@@ -1,0 +1,102 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Navigation Bar Styles */
+.navbar {
+    background-color: #f8f9fa; /* Light background for navbar */
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.nav-link {
+    color: #007bff; /* Bootstrap primary color */
+}
+
+.nav-link:hover {
+    color: #0056b3; /* Darker shade on hover */
+}
+
+/* Hero Section Styles */
+.hero {
+    background-image: url("Images/images01.png"); /* Add your hero image */
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
+
+.hero h1 {
+    font-size: 3rem;
+    margin-bottom: 10px;
+}
+
+.hero p {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+}
+
+.hero .btn {
+    font-size: 1.2rem;
+}
+
+/* Product Grid Styles */
+.container {
+    margin-top: 50px;
+}
+
+.card {
+    border: none; /* Remove card border */
+    transition: transform 0.3s; /* Smooth scale effect */
+}
+
+.card:hover {
+    transform: scale(1.05); /* Scale effect on hover */
+}
+
+.card-img-top {
+    
+    width: 100%; /* Makes the image take the full width of the card */
+    height: 200px; /* Fixed height for uniformity */
+    object-fit: contain; /* Maintain aspect ratio */
+}
+
+/* Footer Styles */
+footer {
+    background-color: #f8f9fa; /* Light background for footer */
+    padding: 20px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+footer p {
+    margin: 0;
+    color: #6c757d; /* Bootstrap secondary color */
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+    .hero h1 {
+        font-size: 2.5rem; /* Smaller font size on mobile */
+    }
+
+    .hero p {
+        font-size: 1.2rem; /* Smaller font size on mobile */
+    }
+
+    .hero .btn {
+        font-size: 1rem; /* Smaller button size on mobile */
+    }
+}
