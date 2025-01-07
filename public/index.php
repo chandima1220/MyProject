@@ -44,11 +44,11 @@
     <div class="container my-5">
         <h2 class="text-center">Featured Flowers</h2>
         <div class="row">
-            <div class="col-md-4">
+        <div class="col-md-4">
                 <div class="card">
-                    <img src="Images/images01.png" class="card-img-top" alt="Flower 1">
+                    <img src="Images/2-4-768x768.png" class="card-img-top" alt="Flower 1">
                     <div class="card-body">
-                        <h5 class="card-title">Rose Bouquet</h5>
+                        <h5 class="card-title">Roseline</h5>
                         <p class="card-text">$29.99</p>
                         <a href="#" class="btn btn-primary">Add to Cart</a>
                     </div>
@@ -56,20 +56,50 @@
             </div>
             <div class="col-md-4">
                 <div class="card">
-                    <img src="Images/images03.jpeg" class="card-img-top" alt="Flower 2">
+                    <img src="Images/2-11-600x600.png" class="card-img-top" alt="Flower 2">
                     <div class="card-body">
-                        <h5 class="card-title">Tulip Arrangement</h5>
-                        <p class="card-text">$19.99</p>
+                        <h5 class="card-title">Sweet Blossoms</h5>
+                        <p class="card-text">$24.99</p>
                         <a href="#" class="btn btn-primary">Add to Cart</a>
                     </div>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="card">
-                    <img src="Images/images04.jpeg" class="card-img-top" alt="Flower 3">
+                    <img src="Images/5-7-600x600.png" class="card-img-top" alt="Flower 3">
                     <div class="card-body">
-                        <h5 class="card-title">Lily Bouquet</h5>
-                        <p class="card-text">$24.99</p>
+                        <h5 class="card-title">Gorgeous Blossoms</h5>
+                        <p class="card-text">$25.99</p>
+                        <a href="#" class="btn btn-primary">Add to Cart</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card">
+                    <img src="Images/6-7-600x600.png" class="card-img-top" alt="Flower 4">
+                    <div class="card-body">
+                        <h5 class="card-title">Country Classic</h5>
+                        <p class="card-text">$29.99</p>
+                        <a href="#" class="btn btn-primary">Add to Cart</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card">
+                    <img src="Images/Red_Yellowrosebasket-Rs3800-600x600.jpg" class="card-img-top" alt="Flower 5">
+                    <div class="card-body">
+                        <h5 class="card-title">Red - Yellow Rose Basket</h5>
+                        <p class="card-text">$39.99</p>
+                        <a href="#" class="btn btn-primary">Add to Cart</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card">
+                    <img src="Images/images01.png" class="card-img-top" alt="Flower 6">
+                    <div class="card-body">
+                        <h5 class="card-title">Rose Bouquet</h5>
+                        <p class="card-text">$18.99</p>
                         <a href="#" class="btn btn-primary">Add to Cart</a>
                     </div>
                 </div>
